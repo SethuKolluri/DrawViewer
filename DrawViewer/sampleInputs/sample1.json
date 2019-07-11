@@ -1,0 +1,292 @@
+{
+    "curves": [
+        {
+            "geometry": {
+                "end_point": [ 109.0283239317, -5.4501217040430001, 0 ],
+                "start_point": [ 109.0283239317, 5.4501217040430001, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 109.02832393170002, 5.4501217040430001, 0 ],
+                "start_point": [ 141.65832393170501, 5.4501217040430001, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "hidden_smooth"
+        },
+        {
+            "geometry": {
+                "end_point": [ 141.65832393170501, -5.4501217040430001, 0 ],
+                "start_point": [ 141.65832393170501, 5.4501217040430001, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 109.02832393170002, -5.4501217040430001, 0 ],
+                "start_point": [ 141.65832393170501, -5.4501217040430001, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "hidden_smooth"
+        },
+        {
+            "geometry": {
+                "end_point": [ 0, 12.5, 0 ],
+                "start_point": [ 0, -12.5, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 0, -12.5, 0 ],
+                "start_point": [ 0, 12.5, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 0, 5.550000000000014, 0 ],
+                "start_point": [ 0, -5.5499999999999856, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 0, -5.5499999999999856, 0 ],
+                "start_point": [ 0, 5.550000000000014, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 6, -12.5, 0 ],
+                "start_point": [ 0, -12.5, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 6, 12.5, 0 ],
+                "start_point": [ 6, -12.5, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 6, 12.5, 0 ],
+                "start_point": [ 0, 12.5, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 6, -12.5, 0 ],
+                "start_point": [ 6, 12.5, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 6, -9, 0 ],
+                "start_point": [ 6, 9, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 6, 9, 0 ],
+                "start_point": [ 6, -9, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 93.924999999999997, -9, 0 ],
+                "start_point": [ 6, -9, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 93.924999999999997, -9, 0 ],
+                "start_point": [ 93.924999999999997, 9, 0 ]
+            },
+            "in_out": "in",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 93.924999999999997, 9, 0 ],
+                "start_point": [ 6, 9, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 93.924999999999997, -9, 0 ],
+                "start_point": [ 93.924999999999997, 9, 0 ]
+            },
+            "in_out": "in",
+            "type": "straight",
+            "visibility": "hidden"
+        },
+        {
+            "geometry": {
+                "end_point": [ 97, -5.9249999999999998, 0 ],
+                "start_point": [ 97, 5.9249999999999998, 0 ]
+            },
+            "in_out": "in",
+            "type": "straight",
+            "visibility": "hidden"
+        },
+        {
+            "geometry": {
+                "end_point": [ 97, -5.9249999999999998, 0 ],
+                "start_point": [ 93.924999999999997, -9, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 97, 5.9249999999999998, 1.0826700626629999e-014 ],
+                "start_point": [ 93.924999999999997, 9, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 97.000000000000014, -5.9249999999999998, 0 ],
+                "start_point": [ 141.65832393170501, -5.9249999999999998, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 97.000000000000014, 5.9249999999999998, 1.0826700626629999e-014 ],
+                "start_point": [ 141.65832393170501, 5.9249999999999998, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 141.65832393170501, -5.9249999999999998, 0 ],
+                "start_point": [ 141.65832393170501, 5.9249999999999998, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 97, 5.9249999999999998, 0 ],
+                "start_point": [ 97, -5.9249999999999998, 0 ]
+            },
+            "in_out": "in",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 141.65832393170501, 5.9249999999999998, 0 ],
+                "start_point": [ 141.65832393170501, -5.9249999999999998, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "visible"
+        },
+        {
+            "geometry": {
+                "end_point": [ 141.65832393170501, 5.4501217040430001, 0 ],
+                "start_point": [ 141.65832393170501, -5.4501217040430001, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 109.0283239317, 5.4501217040430001, 0 ],
+                "start_point": [ 109.0283239317, -5.4501217040430001, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 109.0283239317, 5.550000000000014, 0 ],
+                "start_point": [ 109.0283239317, -5.5499999999999856, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "hidden"
+        },
+        {
+            "geometry": {
+                "end_point": [ 109.0283239317, -5.5499999999999856, 0 ],
+                "start_point": [ 109.0283239317, 5.550000000000014, 0 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "occluded"
+        },
+        {
+            "geometry": {
+                "end_point": [ 109.0283239317, 5.5499999999999998, 2.470270262989e-014 ],
+                "start_point": [ 0, 5.5499999999999998, 2.5547200479050001e-014 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "hidden_smooth"
+        },
+        {
+            "geometry": {
+                "end_point": [ 109.0283239317, -5.5499999999999998, 2.4352661407620001e-014 ],
+                "start_point": [ 0, -5.5499999999999998, 2.3508163558469999e-014 ]
+            },
+            "in_out": "out",
+            "type": "straight",
+            "visibility": "hidden_smooth"
+        }
+    ]
+}
