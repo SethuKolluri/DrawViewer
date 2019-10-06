@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="dropzone/dropzone.css">
+<script type="text/javascript" src="dropzone/dropzone.js"></script>
+
+
+<form id="upload-widget" method="post" action="/upload" class="dropzone">
+</form>
+
+<script>
+Dropzone.options.uploadWidget = {
+  paramName: '.dxf',
+  maxFilesize: 1000, // MB
+  maxFiles: 1,
+  acceptedFiles: ".dxf,.dwg",
+  dictDefaultMessage: 'Drag an dxf here to open, or click to select one',
+};
+</script>

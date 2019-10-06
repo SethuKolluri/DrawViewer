@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
-Debug|Win32|D:\HbbyProjs\DXFView\DWGLibs\customLibDxfrw\dxf2json\|
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+Debug|Win32|D:\HobbyProjs'\DrawViewer-develop\customLibDxfrw\dxf2json\|

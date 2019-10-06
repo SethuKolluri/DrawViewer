@@ -38,7 +38,7 @@ controls.dynamicDampingFactor = 0.3;
 controls.addEventListener('change', render);
 
 
-jQuery.getJSON("..\\sampleInputs\\out.json", function (jsonData) {
+jQuery.getJSON("..\\out.json", function (jsonData) {
 
 
     //drawing material
