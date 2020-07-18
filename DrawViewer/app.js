@@ -5,6 +5,7 @@ var express = require('express'),
     app = express(),
     multer    =   require( 'multer' ),
     process =  require('child_process');
+    var fs = require('fs');
 
 //start server communication
 app.listen(5000,function(){
@@ -26,14 +27,15 @@ var upload = multer({ storage: storage });
 
 //upload action
 app.post( '/upload', upload.single( '.dxf' ), function( req, res, next ) {
-    let success = true;
+    let success = false;
     if(req.file.originalname.endsWith(".dxf")||req.file.originalname.endsWith(".dwg"))
     {
         console.log(req.file);
         
 try{
 
-            const child = process.execFileSync('dxf2json.exe', [req.file.path]);
+            let chil = process.execFileSync('dxf2json.exe', [req.file.path]);
+            success = true;
         }
         catch(e)
         {
@@ -47,7 +49,9 @@ try{
     }
 
     if(success)
-        res.redirect('/index.html');
+       {        
+       return res.status( 200 ).send("Successful click View");
+       }
     else
         return  res.status( 422 ).send("Failure please try again");
     
