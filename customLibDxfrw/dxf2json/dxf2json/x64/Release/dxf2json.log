@@ -1,6 +1,0 @@
-﻿  dx_iface.cpp
-D:\HobbyProjs'\DrawViewer-develop\customLibDxfrw\libdxfrw-master\src\drw_entities.h(849,1): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
-  main.cpp
-D:\HobbyProjs'\DrawViewer-develop\customLibDxfrw\dxf2json\dxf2json\Sources\dx_iface.cpp(26,49): warning C4267:  'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-D:\HobbyProjs'\DrawViewer-develop\customLibDxfrw\libdxfrw-master\src\drw_entities.h(849,1): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
-LINK : fatal error LNK1181: cannot open input file 'libdxfrw.lib'
